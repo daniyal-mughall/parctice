@@ -1,2 +1,2 @@
-# parctice
+# practice
 BootCamp
